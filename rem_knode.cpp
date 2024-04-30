@@ -78,7 +78,7 @@ class Solution {
       }
       return head;
 };
-
+}
 
 //{ Driver Code Starts.
 
